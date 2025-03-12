@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index.ts",
-    "movies" :"ts-node src/movie-management.ts"
+    "movies" :"ts-node src/movie-management.ts",
+    "fitness" : "ts-node src/fitness-tracker.ts"
   },
   "keywords": [],
   "author": "",
